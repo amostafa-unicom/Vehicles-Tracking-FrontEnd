@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "evision-task"
+    }
+  },
+  "defaultProject": "evision-task",
+  "cli": {
+    "analytics": "6b17ed85-04cf-4d60-8d50-d9026c527346"
+  }
 }
